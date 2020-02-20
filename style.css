@@ -14,7 +14,7 @@ a {
 }
 .code-area {
     color: #d3d7de;
-    font-family: "Courier new";
+    font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     line-height: 1.5em;
 	cursor: default;
