@@ -1,7 +1,7 @@
 /* Styles of the 404 page of my website. */
 
 body {
-    background: #022859;
+    background: #011627;;
 }
 
 a {
@@ -13,7 +13,7 @@ a {
     color: #FFAB00;
 }
 .code-area {
-    color: #d3d7de;
+    color: #c792ea;
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     line-height: 1.5em;
